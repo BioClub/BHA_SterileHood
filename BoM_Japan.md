@@ -11,7 +11,7 @@ This time we will not use a microprocessor or any other piece of electronics for
 |2|1|250 m<sup>3</sup>/h air pump (100V)|||
 |3|1|Pre filter (generic kitchen hood filter)|||
 
-_The LAGAN 703.045.88 from IKEA NL operates on 220V and is not available in IKEA JAPAN._
+_The LAGAN 703.045.88 from IKEA NL operates on 220V and is not available at IKEA JAPAN._
 
 **Alternatives**
 
