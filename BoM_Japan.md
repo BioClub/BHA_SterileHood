@@ -7,8 +7,11 @@ This time we will not use a microprocessor or any other piece of electronics for
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|HEPA フィルター|[Monotaro](https://www.monotaro.com/g/01297834/?t.q=HEPA)|32.12|
-|2|1|250 m<sup>3</sup>/h air pump of LAGAN 703.045.88|[IKEA](http://www.ikea.com/nl/nl/catalog/products/70304588/)|35.00|
+~~|2|1|250 m<sup>3</sup>/h air pump of LAGAN 703.045.88|[IKEA](http://www.ikea.com/nl/nl/catalog/products/70304588/)|35.00|~~
+|2|1|250 m<sup>3</sup>/h air pump (100V)|||
 |3|1|Pre filter (generic kitchen hood filter)|||
+
+The LAGAN 703.045.88 from IKEA NL operates on 220V and is not available in IKEA JAPAN. 
 
 **Alternatives**
 
