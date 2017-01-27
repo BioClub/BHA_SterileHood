@@ -11,7 +11,7 @@ This time we will not use a microprocessor or any other piece of electronics for
 |2|1|250 m<sup>3</sup>/h air pump (100V)|[Amazon](http://amzn.asia/2ApLOvw)|3270|
 |3|1|キッチン換気扇フィルター*|[Monotaro](https://www.monotaro.com/g/00183987/)|979|
 
-_アマゾンで換気扇はフィルター付きです_
+_アマゾンの換気扇はフィルター付きです_
 
 _The LAGAN 703.045.88 from IKEA NL operates on 220V and is not available at IKEA JAPAN._
 
