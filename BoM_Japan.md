@@ -8,7 +8,7 @@ This time we will not use a microprocessor or any other piece of electronics for
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|HEPA フィルター|[Monotaro](https://www.monotaro.com/g/01297834/?t.q=HEPA), [Amazon](http://amzn.asia/gM4HdWP)|2218|
 |~~2~~|~~1~~|~~250 m<sup>3</sup>/h air pump of LAGAN 703.045.88~~|~~[IKEA](http://www.ikea.com/nl/nl/catalog/products/70304588/)~~|~~35.00~~|
-|2|1|250 m<sup>3</sup>/h air pump (100V)|[Amazon](http://amzn.asia/2ApLOvw)|3270|
+|2|1|換気扇|[Amazon](http://amzn.asia/2ApLOvw)|3270|
 |3|1|キッチン換気扇フィルター*|[Monotaro](https://www.monotaro.com/g/00183987/)|979|
 
 _*アマゾンの換気扇はフィルター付きです_
