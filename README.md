@@ -24,9 +24,11 @@ The BioHack Academy 3 release contains the following:
 * Inlet size: 41cm x 32cm
 * Desired Airflow: 0.5m airflow/sec.
 
-`0.41 * 0.32 * 0.5 = 0.0656 m^3/sec`
-` → 0.0656 * 60 = 3.936 m^3/min` 
-` → 0.0656 * 60 * 60 = 236.16 m^3/hr` 
+```
+0.41 * 0.32 * 0.5 = 0.0656 m^3/sec
+ → 0.0656 * 60 = 3.936 m^3/min
+ → 0.0656 * 60 * 60 = 236.16 m^3/h
+```
 
 120mm Computer Fan, 100V, Maximum airflow rate (m^3/ min) (50/60 Hz) 2.5 / 2.9 
 https://www.monotaro.com/g/00347764/
