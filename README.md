@@ -1,8 +1,8 @@
-#BHA SterileHood
+# BHA SterileHood
 
 This repo contains the designs and source files of a **DIY Sterilehood**. This device can be used to work with microbes and tissue culture asepticly. Since the flow is directly straight into your face, it is only suitable for Biosafety Level 1 work. Check out the corresponding [BHA lecture in the Syllabus](http://biohackacademy.github.io) for more information.
 
-##Navigation the repo
+## Navigation the repo
 
  	BHA_SterileHood/						main repo
  	|-- Pictures/							Picture documentation
@@ -11,7 +11,7 @@ This repo contains the designs and source files of a **DIY Sterilehood**. This d
  	SterileHood-Cut-Sheet.svg				Laser cut vector file
  	SterileHood-Sketchup.skp				Sketchup 3D design
  	
-##Releases
+## Releases
 
 The BioHack Academy 3 release contains the following:
 
@@ -19,11 +19,18 @@ The BioHack Academy 3 release contains the following:
 * 2015 BHA2 Design
 * 2016 BHA3 Design
 
-## To Do
+## Flow Calculations & Fan
 
-* Make the whole thing a lot sturdier
+* Inlet size: 41cm x 32cm
+* Desired Airflow: 0.5m airflow/sec.
 
-Please maket more suggestions by posting in the Issues section of this GitHub Repo.
+`0.41 * 0.32 * 0.5 = 0.0656 m^3/sec`
+` → 0.0656 * 60 = 3.936 m^3/min` 
+` → 0.0656 * 60 * 60 = 236.16 m^3/hr` 
+
+120mm Computer Fan, 100V, Maximum airflow rate (m^3/ min) (50/60 Hz) 2.5 / 2.9 
+https://www.monotaro.com/g/00347764/
+
 
 ## License
 
